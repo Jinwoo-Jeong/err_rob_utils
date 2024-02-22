@@ -1,2 +1,5 @@
 utils/errors/
 log/
+utils/__pycache__/
+minor-test.code-workspace
+*.npz
